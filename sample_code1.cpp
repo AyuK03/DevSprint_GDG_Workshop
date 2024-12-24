@@ -11,7 +11,7 @@ void printFibonacci(int n) {
         t1 = t2;
         t2 = nextTerm;
     }
-    cout << endl;
+    cout << " - " << endl;
 }
 
 int main() {
