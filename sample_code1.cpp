@@ -16,7 +16,7 @@ void printFibonacci(int n) {
 
 int main() {
     int n;
-    cout << "Enter the number of terms: ";
+    cout << "Enter the number of terms to show: ";
     cin >> n;
 
     printFibonacci(n);
